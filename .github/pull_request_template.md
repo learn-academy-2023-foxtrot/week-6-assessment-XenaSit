@@ -4,13 +4,24 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Coding Challenges
-- [ ] Coding Concepts
-- [ ] Interview Questions
+- [✅] Coding Challenges
+- [✅] Coding Concepts
+- [✅] Interview Questions
 
 ### ✋ Reminder
 
-Do NOT merge your assessment!
+const Do_NOT = merge your assessment!
+
+describe("mergeResistance", () => {
+  it("takes all the will power and resists the urge to merge", () => {
+    expect(mergeRsistance(Do_NOT)).toEqual("merge your assessment!")
+  })
+})
+function mergeRsistance (merge){
+    merge != Yes
+    return "merge your assessment!"
+}
+✅ the TEST has passed
 
 ### 📝 Feedback
 
